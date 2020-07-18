@@ -1,0 +1,7 @@
+---
+setups:
+  node:
+    file: run.sh
+    array_vars:
+      all: ".*"
+    vars: []
