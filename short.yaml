@@ -4,4 +4,3 @@ setups:
     file: run.sh
     array_vars:
       all: ".*"
-    vars: []
